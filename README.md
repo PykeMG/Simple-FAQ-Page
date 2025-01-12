@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name} | devChallenges</h1>
+<h1 align="center">Simple-FAQ-Page | devChallenges</h1>
 
 <div align="center">
    Solution for a challenge <a href="https://devchallenges.io/challenge/simple-faq-challenge" target="_blank">Simple FAQ</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
@@ -51,6 +51,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 ### What I learned
 
 <!-- Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge. -->
+I learnoed about how to use flex box and containers.
 
 ### Useful resources
 
@@ -58,7 +59,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 -->
-
+I used simple HTML and CSS code, made in visual studio code.
 ### Built with
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
