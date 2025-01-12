@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #030616;
+    background-color: #f8f9fa;
+}
+h1{
+    font-size: 2.25rem;
+}
+h2{
+    font-size: 1.5rem;
+    font-weight: 1.5rem;
+}
+h1, h2{
+    font-weight: 600;
+}
+p, a{
+    font-size: 1rem;
+    font-weight: 400;
+}
+ol, ul{
+    padding-left: 20px;
+}
+li{
+    margin-bottom: .5rem;
+}
+a{
+    color: #4E80EE;
+    text-decoration: none;
+}
+span{
+    font-weight: 600;
+}
+.Section{
+    min-height: 100vh;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 250px;
+}
+.MainSection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.HeaderSection{
+    padding: 4rem 2rem;
+    background-color: #FFFFFF;
+    width: 100%;
+    text-align: center;
+}
+.BodySection{
+    padding: 4rem 2rem;
+    background-color: #F8FAFC;
+    width: 100%;
+}
+.SectionPart{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.SectionLine{
+    background-color: #D2D5DA;
+    width: 100%;
+    height: 1px;
+    margin: 2rem 0;
+}
+@media (max-width: 1024px){
+    .container{
+        padding: 0 180px;
+    }
+}
+@media (max-width: 640px){
+    .container{
+        padding: 0 5px;
+    }
+    p{
+        font-size: 14px;
+    }
+}
